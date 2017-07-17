@@ -1,0 +1,6 @@
+C:\Users\LIDOR\Desktop\תוכנות שאני יוצר\DayCalculator\DayCalculator\bin\Debug\DayCalculator.exe.config
+C:\Users\LIDOR\Desktop\תוכנות שאני יוצר\DayCalculator\DayCalculator\bin\Debug\DayCalculator.exe
+C:\Users\LIDOR\Desktop\תוכנות שאני יוצר\DayCalculator\DayCalculator\bin\Debug\DayCalculator.pdb
+C:\Users\LIDOR\Desktop\תוכנות שאני יוצר\DayCalculator\DayCalculator\obj\Debug\DayCalculator.csprojResolveAssemblyReference.cache
+C:\Users\LIDOR\Desktop\תוכנות שאני יוצר\DayCalculator\DayCalculator\obj\Debug\DayCalculator.exe
+C:\Users\LIDOR\Desktop\תוכנות שאני יוצר\DayCalculator\DayCalculator\obj\Debug\DayCalculator.pdb
